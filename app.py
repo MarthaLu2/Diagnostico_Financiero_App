@@ -31,7 +31,7 @@ with col2:
 st.markdown("""
 ### Herramienta de Evaluación Financiera
 
-Esta herramientaha ha sido diseñada para que usted pueda conocer y analizar la situación financiera actual de su empresa mediante el cálculo automático de los principales indicadores financieros. 
+Esta herramienta ha sido diseñada para que usted pueda conocer y analizar la situación financiera actual de su empresa mediante el cálculo automático de los principales indicadores financieros. 
 
 En la primera sección encontrará una explicación clara y sencilla de cada indicador: qué mide, cómo se calcula y cuál es su utilidad en la gestión empresarial, especialmente en el contexto de las micro y pequeñas empresas. 
 
@@ -381,3 +381,4 @@ if st.button("Calcular Indicadores Financieros"):
         )
 
    
+
