@@ -26,7 +26,7 @@ col1, col2, col3 = st.columns([1,2,1])
 with col2:
     col_img1, col_img2, col_img3 = st.columns([1,3,1])
     with col_img2:
-        st.image("imagen.png", width=300)
+        st.image("Imagen.png", width=300)
 
 st.markdown("""
 ### Herramienta de Evaluación Financiera
@@ -379,4 +379,5 @@ if st.button("Calcular Indicadores Financieros"):
             "Se recomienda revisar costos, optimizar gastos y mejorar la "
             "estructura financiera para fortalecer la rentabilidad de su empresa."
         )
+
    
